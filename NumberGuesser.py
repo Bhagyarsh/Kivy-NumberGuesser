@@ -43,4 +43,4 @@ class NumberGuesser(App):
 
 
 if __name__ == '__main__':
-    NumberGusser().run()
+    NumberGuesser().run()
